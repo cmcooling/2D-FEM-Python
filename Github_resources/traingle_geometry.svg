@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="98.867287mm"
+   height="48.451557mm"
+   viewBox="0 0 98.867287 48.451557"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="traingle_geometry.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.9647587"
+     inkscape:cx="50.762985"
+     inkscape:cy="81.456882"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-13.244033,-79.13462)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 49.797479,122.44111 c -33.19832,0 -33.19832,0 -33.19832,0"
+       id="path176"
+       inkscape:export-filename="C:\Users\cmc310\Google Drive\Graduate School\Example Projects\2D-FEM-Python\Github_resources\traingle_geometry.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 16.599159,89.242787 c 0,33.198323 0,33.198323 0,33.198323"
+       id="path176-1"
+       inkscape:export-filename="C:\Users\cmc310\Google Drive\Graduate School\Example Projects\2D-FEM-Python\Github_resources\traingle_geometry.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 16.599159,89.242785 C 49.797477,122.44111 49.797477,122.44111 49.797477,122.44111"
+       id="path313"
+       inkscape:export-filename="C:\Users\cmc310\Google Drive\Graduate School\Example Projects\2D-FEM-Python\Github_resources\traingle_geometry.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.9389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="35.161655"
+       y="92.455528"
+       id="text3939"
+       inkscape:export-filename="C:\Users\cmc310\Google Drive\Graduate School\Example Projects\2D-FEM-Python\Github_resources\traingle_geometry.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan3937"
+         style="stroke-width:0.264583"
+         x="35.161655"
+         y="92.455528">𝜂</tspan></text>
+    <g
+       id="g21509"
+       transform="translate(17.759315,10.173678)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 16.599159,89.242785 c -0.08924,-6.425478 -0.08924,-6.425478 -0.08924,-6.425478"
+         id="path5082"
+         inkscape:export-filename="C:\Users\cmc310\Google Drive\Graduate School\Example Projects\2D-FEM-Python\Github_resources\traingle_geometry.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 16.509919,82.817305 c -1.103737,1.911728 -1.105632,1.915012 -1.105632,1.915012"
+         id="path5086"
+         inkscape:export-filename="C:\Users\cmc310\Google Drive\Graduate School\Example Projects\2D-FEM-Python\Github_resources\traingle_geometry.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 16.509919,82.817307 c 1.103737,1.911728 1.105632,1.915012 1.105632,1.915012"
+         id="path5086-7"
+         inkscape:export-filename="C:\Users\cmc310\Google Drive\Graduate School\Example Projects\2D-FEM-Python\Github_resources\traingle_geometry.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <g
+       id="g5225"
+       transform="rotate(90,43.745044,98.36163)"
+       inkscape:export-filename="C:\Users\cmc310\Google Drive\Graduate School\Example Projects\2D-FEM-Python\Github_resources\traingle_geometry.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 44.799877,107.7482 c -0.08924,-6.42548 -0.08924,-6.42548 -0.08924,-6.42548"
+         id="path5082-2" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 44.710637,101.32272 c -1.103737,1.91173 -1.105632,1.91501 -1.105632,1.91501"
+         id="path5086-9" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 44.710637,101.32272 c 1.103737,1.91173 1.105632,1.91501 1.105632,1.91501"
+         id="path5086-7-1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.9389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="41.051682"
+       y="102.00452"
+       id="text7275"
+       inkscape:export-filename="C:\Users\cmc310\Google Drive\Graduate School\Example Projects\2D-FEM-Python\Github_resources\traingle_geometry.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan7273"
+         style="stroke-width:0.264583"
+         x="41.051682"
+         y="102.00452">𝜉</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.9389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="12.761719"
+       y="125.38612"
+       id="text11055"
+       inkscape:export-filename="C:\Users\cmc310\Google Drive\Graduate School\Example Projects\2D-FEM-Python\Github_resources\traingle_geometry.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan11053"
+         style="stroke-width:0.264583"
+         x="12.761719"
+         y="125.38612">P<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan12039">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.9389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="47.574547"
+       y="126.5984"
+       id="text11055-8"
+       inkscape:transform-center-x="1.1601563"
+       inkscape:transform-center-y="0.44621394"
+       inkscape:export-filename="C:\Users\cmc310\Google Drive\Graduate School\Example Projects\2D-FEM-Python\Github_resources\traingle_geometry.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan11053-9"
+         style="stroke-width:0.264583"
+         x="47.574547"
+         y="126.5984">P<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan13467">2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.9389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="17.491585"
+       y="89.332031"
+       id="text16199"
+       inkscape:export-filename="C:\Users\cmc310\Google Drive\Graduate School\Example Projects\2D-FEM-Python\Github_resources\traingle_geometry.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan16197"
+         style="stroke-width:0.264583"
+         x="17.491585"
+         y="89.332031">P<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan16443">3</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 89.599759,107.18058 C 84.24519,89.867488 84.24519,89.867488 84.24519,89.867488 l 22.66767,-1.427885 z"
+       id="path17012"
+       inkscape:export-filename="C:\Users\cmc310\Google Drive\Graduate School\Example Projects\2D-FEM-Python\Github_resources\traingle_geometry.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g5225-9"
+       transform="rotate(90,55.464393,127.66181)"
+       inkscape:export-filename="C:\Users\cmc310\Google Drive\Graduate School\Example Projects\2D-FEM-Python\Github_resources\traingle_geometry.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 44.799877,107.7482 c -0.08924,-6.42548 -0.08924,-6.42548 -0.08924,-6.42548"
+         id="path5082-2-8" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 44.710637,101.32272 c -1.103737,1.91173 -1.105632,1.91501 -1.105632,1.91501"
+         id="path5086-9-3" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 44.710637,101.32272 c 1.103737,1.91173 1.105632,1.91501 1.105632,1.91501"
+         id="path5086-7-1-6" />
+    </g>
+    <g
+       id="g5225-2"
+       transform="translate(30.578126,9.249094)"
+       inkscape:export-filename="C:\Users\cmc310\Google Drive\Graduate School\Example Projects\2D-FEM-Python\Github_resources\traingle_geometry.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 44.799877,107.7482 c -0.08924,-6.42548 -0.08924,-6.42548 -0.08924,-6.42548"
+         id="path5082-2-2" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 44.710637,101.32272 c -1.103737,1.91173 -1.105632,1.91501 -1.105632,1.91501"
+         id="path5086-9-33" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 44.710637,101.32272 c 1.103737,1.91173 1.105632,1.91501 1.105632,1.91501"
+         id="path5086-7-1-2" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.9389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="82.460335"
+       y="118.96064"
+       id="text18360"
+       inkscape:export-filename="C:\Users\cmc310\Google Drive\Graduate School\Example Projects\2D-FEM-Python\Github_resources\traingle_geometry.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan18358"
+         style="stroke-width:0.264583"
+         x="82.460335"
+         y="118.96064">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.9389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="73.357567"
+       y="109.05469"
+       id="text19288"
+       inkscape:export-filename="C:\Users\cmc310\Google Drive\Graduate School\Example Projects\2D-FEM-Python\Github_resources\traingle_geometry.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan19286"
+         style="stroke-width:0.264583"
+         x="73.357567"
+         y="109.05469">y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.9389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="86.305916"
+       y="112.31956"
+       id="text11055-5"
+       inkscape:export-filename="C:\Users\cmc310\Google Drive\Graduate School\Example Projects\2D-FEM-Python\Github_resources\traingle_geometry.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan11053-95"
+         style="stroke-width:0.264583"
+         x="86.305916"
+         y="112.31956">P<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan12039-9">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.9389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="107.3006"
+       y="89.651886"
+       id="text11055-8-9"
+       inkscape:transform-center-x="1.1601563"
+       inkscape:transform-center-y="0.44621394"
+       inkscape:export-filename="C:\Users\cmc310\Google Drive\Graduate School\Example Projects\2D-FEM-Python\Github_resources\traingle_geometry.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan11053-9-1"
+         style="stroke-width:0.264583"
+         x="107.3006"
+         y="89.651886">P<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan13467-1">2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.9389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="78.759369"
+       y="89.449104"
+       id="text16199-8"
+       inkscape:export-filename="C:\Users\cmc310\Google Drive\Graduate School\Example Projects\2D-FEM-Python\Github_resources\traingle_geometry.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan16197-8"
+         style="stroke-width:0.264583"
+         x="78.759369"
+         y="89.449104">P<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan16443-1">3</tspan></tspan></text>
+  </g>
+</svg>
